@@ -1,6 +1,6 @@
 streamlit
-tensorflow
+tensorflow>=2.15.0,<2.16.0
+numpy
 opencv-python
-scikit-learn
+pillow
 gdown
-Pillow
